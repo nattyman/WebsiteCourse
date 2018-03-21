@@ -1,0 +1,25 @@
+Website Name: The Midtown Grind Coffee House
+Description: Coffee, Cream, & Conversations
+
+Navigation Menu:
+About Us
+Menu
+Our Coffee
+Events
+Coffee Club
+Location
+
+Main Content:
+Big Heading: Latte's and Leisure
+Article: We believe in people.  We believe in people enjoying one anothers company.  We believe in people enjoying one anothers company enjoying good coffee.
+
+Medium Heading: The Midtown Grind Coffee House Makes you Happy
+Coffee makes you happy, being happy is good. Enjoying time with friends makes you happy, too.  Why not enjoy them together?  Coffee Brings friends together.  If 1 + 1 = 3, then coffee + friends = really happy!
+
+Aside: We believe in Giving Back
+Because of our love of coffee and people we believe in giving back to the community around us.  A portion of every purchase goes toward planting a tree.  Our trees have been planted all over our community, from schools and senior centers, to public parks, and near road ways.
+
+We believe in you giving to us as we give back to you.  It's a circle of giving... and believing, believing in each other.
+
+Footer:
+Copyright Web Design Journey at www.webdesignjourney.com
