@@ -3,15 +3,15 @@ body {
   margin:0;
 }
 
-#header {
+header {
   background-color: #eee;
   padding:10px;
 }
 
-#nav {
+nav {
 }
 
-ul#nav {
+nav ul {
   background-color: #ccc;
   list-style-type: none;
   margin: 0;
@@ -23,24 +23,24 @@ ul#nav {
   top: 0;
 }
 
-#nav li {
+nav li {
   float:left;
   border-right: 1px solid #fff;
 }
 
-#nav li a {
+nav li a {
   display: block;
   padding: 5px 10px;
   text-decoration: none;
   color:#333;
 }
 
-#nav li a:hover {
+nav li a:hover {
   color: #888;
   background-color: #eee;
 }
 
-#main {
+main {
   padding: 0px;
   width: 100%;
   overflow: auto;
@@ -56,20 +56,20 @@ ul#nav {
   width: 25%;
 }
 
-#article {
+article {
   padding: 10px 10px;
   /* float:left; */
 
 }
 
-#aside {
+aside {
   padding: 10px 10px;
   /* float:left; */
 
 
 }
 
-#footer {
+footer {
     clear: both;
     width: 100%;
     background-color: #eee;
